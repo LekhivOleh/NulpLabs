@@ -1,9 +1,9 @@
-from nemain import Fighter, Fight
+from source.nemain import Fighter, Fight
 
-fighter1 = Fighter("Tyler Derden", 100, 13)
-fighter2 = Fighter("Narrator", 100, 13)
+fighter_1 = Fighter("Tyler Derden", 100, 13)
+fighter_2 = Fighter("Narrator", 100, 13)
 
-fight = Fight(fighter1, fighter2)
+fight = Fight(fighter_1, fighter_2)
 winner = fight.get_winner()
 
 if winner:
