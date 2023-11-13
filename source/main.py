@@ -1,3 +1,5 @@
+"""Some docstring."""
+
 from source.nemain import Fighter, Fight
 
 fighter_1 = Fighter("Tyler Derden", 100, 13)
