@@ -1,0 +1,6 @@
+ERROR:root:Health limit is reached! Already at full hp
+ERROR:root:Health limit is reached! Already at full hp
+ERROR:root:Healing for <fight.Fighter object at 0x000002A436850E60> is denied! Already at full hp
+ERROR:root:Healing for <fight.Fighter object at 0x00000176574F0E60> is denied! Already at full hp
+ERROR:root:Healing for 1234354343 is denied! Already at full hp
+ERROR:root:Healing for 1234354343 is denied! Already at full hp
